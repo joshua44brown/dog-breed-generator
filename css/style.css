@@ -3,12 +3,12 @@
 /*******************************************/
 
 html {
-  font-size: 2rem;
+  font-size: 1.8rem;
   color: antiquewhite;
   text-shadow: 2px 2px black;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background: linear-gradient(rgb(90, 34, 76), rgb(197, 124, 56));
-  height: 100vh;
+  height: 120vh;
 }
 header {
   margin: 0 0 30px 0;
